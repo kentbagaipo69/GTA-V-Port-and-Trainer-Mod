@@ -1,0 +1,4 @@
+package com.thegwchr.fuzzy;
+final class BuildIdentity {
+ static final String EXPECTED_CERT_SHA256 = ""; // Supply your own signing certificate fingerprint locally.
+}

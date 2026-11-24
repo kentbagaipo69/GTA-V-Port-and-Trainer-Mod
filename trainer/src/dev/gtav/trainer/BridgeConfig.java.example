@@ -1,0 +1,5 @@
+package dev.gtav.trainer;
+final class BridgeConfig {
+ static final int PORT = 47771;
+ static final String TOKEN = ""; // Generate a fresh private pairing secret; never commit it.
+}
